@@ -1,11 +1,5 @@
-this is aaa test
-test2
-test3
-
-==
-test4
-test5
-
-==
-test67
+这是个小项目
+1. 开发框架tp5
+2. 数据库mysql 5.6
+3. 模板引擎 smarty
 
